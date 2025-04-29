@@ -25,7 +25,7 @@ except FileNotFoundError:
 END_PAGE = 500      # Final page for query
 
 # Configurações do MongoDB
-MONGO_URI = 'mongodb+srv://pauloipf:Qe2Ay97jUvIFPQJS@cluster0.wlxeqer.mongodb.net/'
+MONGO_URI = 'YOUR MONGODB URI HERE'
 DB_NAME = 'cinema'
 COLLECTION_NAME = 'filmes'
 
